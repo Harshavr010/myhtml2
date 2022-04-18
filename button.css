@@ -1,0 +1,30 @@
+/* .mybutton1{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    font-family: Roboto;
+    background-color: antiquewhite;
+    color: rgb(0, 131, 65);
+    border: 1px solid rgb(0, 225, 255);
+    margin: 50px;
+}
+.mybutton2{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    font-family: Roboto;
+    background-color: antiquewhite;
+    color: rgb(0, 131, 65);
+    margin-top: 0px;
+    border: 1px solid rgb(0, 225, 255);
+    box-shadow: 2px 2px;
+    margin: 50px;
+    
+} */
+
+.btn-primary {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+  }
+  
